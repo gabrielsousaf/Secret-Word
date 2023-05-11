@@ -3,7 +3,12 @@
 }
 
 .points span{
+    font-size: 1.8em;
     font-weight: bold;
+}
+
+.points .point{
+    color: #ecfa00;
 }
 
 .tip span{
@@ -32,6 +37,7 @@
 
 .letterContainer p{
     margin-bottom: 1.2em;
+    font-size: 1.5em;
 }
 
 .letterContainer form {
@@ -46,4 +52,13 @@
     font-size: 2em;
     text-align: center;
     margin-right: 10px;
+}
+
+
+@media(max-width: 900px){
+    .letter, .blankSquare{
+        height: 50px;
+        width: 50px;
+        font-size: 30px;
+    }
 }
