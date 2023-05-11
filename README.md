@@ -1,13 +1,20 @@
 <h1 align="center" width:100%>
-  
-![FoodEx - Google Chrome 2022-07-25 10-49-54 (1)](https://user-images.githubusercontent.com/97768716/180794676-8f994a29-9ab1-4006-9a08-24d774defbf0.gif)
-> ###### "Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoais."
+   
+![Game Secret Word - Google Chrome 2023-05-11 20-34-40](https://github.com/gabrielsousaf/Secret-Word/assets/121953504/7d673a74-7679-43de-95a1-7fb23d07dc57)
+![Design_sem_nome-removebg-preview](https://github.com/gabrielsousaf/Secret-Word/assets/121953504/3a5f5ef1-d9fe-4045-b75c-5cc753b2b7e6)
+ 
 
+# 📱 Secret Word.
+> * Esse repositório tem como objetivo principal apresentar meus estudos e aplicar em projetos pessoais em React.
+> * Jogo de adivinhação de palavras simples desenvolvido em React.
+  
 
 ## ⚙ Descrição do projeto.
-> * Adicionar cor no header quando o scroll for usado e quando retornar ao inicio da pagina é removido.<br>
-> * Uso de uma biblioteca de animação, conforme os elementos entram/saem da viewport.<br>
-> * Responsividade mobile
+> * Escolha aleatória da categoria e da palavra a ser adivinhada.<br>
+> * Processamento da letra escolhida pelo jogador, verificando se ela já foi escolhida anteriormente e se está contida na palavra a ser adivinhada.<br>
+> * Reinício do jogo com nova palavra após o jogador acertar todas as letras da palavra atual.<br>
+> * Verificação da condição de vitória ou de derrota do jogador.<br>
+> * Reinício do jogo após a derrota do jogador.  
 
 
 ## ☕ Tecnologias Usadas
@@ -17,10 +24,7 @@
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
-## ✨Sobre o FoodEx.
-> Site fictício de restaurantes.
-
-https://gabrielsousaf.github.io/FoodEx/
+https://secret-word-gabrielsousaf.vercel.app/
 
 
 
@@ -41,9 +45,7 @@ No diretório do projeto, você pode executar:
 ### `npm run build`
 > Compila o aplicativo para produção na pasta build.
 > Ele agrupa corretamente o React no modo de produção e otimiza a construção para obter o melhor desempenho.
-
-![172434106-bb6b8b9d-4878-454b-8dca-4d1af4aec0ac (2)](https://user-images.githubusercontent.com/97768716/180794727-7826c666-d724-458c-b979-07debccf834b.png)  
-  
+   
 ## 📝 Licença
 
 > Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
