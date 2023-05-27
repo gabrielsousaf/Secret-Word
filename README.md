@@ -32,6 +32,9 @@ https://secret-word-gabrielsousaf.vercel.app/
 
 No diretório do projeto, você pode executar:
 
+## `npm i`:
+> Instalar as dependências listadas no arquivo package.json do projeto.
+
 ## `npm start`: 
 > Executa o aplicativo em modo de desenvolvimento.
 > Abra http://localhost:3000 para visualizá-lo no navegador.
